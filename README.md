@@ -1,8 +1,8 @@
-# Week 3 Assignment (Slicing)
+# Week 3 Assignment 
 - Nama: Muhammad Haulul Azkiyaa
 - NIM: 1302223007
 - Prodi: S1 Rekayasa Perangkat Lunak
-## Screenshoot
+## Screenshoot (Slicing Google Classroom)
 
 ### Screenshoot Kodingan
 
