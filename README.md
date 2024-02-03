@@ -1,16 +1,25 @@
-# aw3_slicing_motionlab
+# Week 3 Assignment (Slicing)
+- Nama: Muhammad Haulul Azkiyaa
+- NIM: 1302223007
+- Prodi: S1 Rekayasa Perangkat Lunak
+## Screenshoot
 
-A new Flutter project.
+### Screenshoot Kodingan
 
-## Getting Started
+![](https://masulyablog.sirv.com/secs2022/Screenshot%202024-02-03%20at%2023.13.09.png)
 
-This project is a starting point for a Flutter application.
+### Application Pages
+## 1. Homepage
+<img src="https://masulyablog.sirv.com/secs2022/Screenshot%202024-02-03%20at%2023.11.05.png" alt="drawing" height="500"/>
 
-A few resources to get you started if this is your first Flutter project:
+## 2. Forum Page
+<img src="https://masulyablog.sirv.com/secs2022/Screenshot%202024-02-03%20at%2023.13.29.png" alt="drawing" height="500"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 3. Assignment Page
+<img src="https://masulyablog.sirv.com/secs2022/Screenshot%202024-02-03%20at%2023.13.37.png" alt="drawing" height="500"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 4. Member Page
+<img src="https://masulyablog.sirv.com/secs2022/Screenshot%202024-02-03%20at%2023.13.45.png" alt="drawing" height="500"/>
+
+## 5. Comment Page
+<img src="https://masulyablog.sirv.com/secs2022/Screenshot%202024-02-03%20at%2023.13.52.png" alt="drawing" height="500"/>
